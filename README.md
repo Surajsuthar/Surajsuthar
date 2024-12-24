@@ -6,9 +6,9 @@
 
 I'm a passionate software developer with a keen interest in web development, open-source contributions, and continuous learning. I love to build and work on projects that solve real-world problems.
 
-- 🌱 I’m currently learning **React.js** and **Node.js**
+- 🌱 I’m currently learning  **Backend and Web3**
 - 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me about **JavaScript, Python, and Web Development**
+- 💬 Ask me about **JavaScript, Web3, and Web Development**
 - 📫 How to reach me: [surajsuthar@example.com](mailto:surajsuthar0067@gamil.com)
 - ⚡ Fun fact: I enjoy playing chess and hiking
 
