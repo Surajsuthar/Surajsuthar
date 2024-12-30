@@ -8,9 +8,9 @@ I'm a passionate software developer with a keen interest in web development, ope
 
 - 🌱 I’m currently learning  **Backend and Web3**
 - 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me about **JavaScript, Web3, and Web Development**
-- 📫 How to reach me: [surajsuthar@example.com](mailto:surajsuthar0067@gamil.com)
-- ⚡ Fun fact: I enjoy playing chess and hiking
+- 💬 Ask me about **Web3,Defi and Web Development**
+- 📫 How to reach me: [surajsuthar0067@gmail.com](mailto:surajsuthar0067@gamil.com)
+- ⚡ Fun fact: I enjoy reading books
 
 
 ## 📈 GitHub Stats
