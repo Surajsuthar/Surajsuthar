@@ -6,12 +6,7 @@
 
 I'm a passionate software developer with a keen interest in web development, open-source contributions, and continuous learning. I love to build and work on projects that solve real-world problems.
 
-- 🌱 I’m currently learning  **Backend and Web3**
-- 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me about **Web3,Defi and Web Development**
-- 📫 How to reach me: [surajsuthar0067@gmail.com](mailto:surajsuthar0067@gamil.com)
-- ⚡ Fun fact: I enjoy reading books
-
+- learning
 
 ## 📈 GitHub Stats
 
