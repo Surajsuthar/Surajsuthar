@@ -8,9 +8,6 @@ I'm a passionate software developer with a keen interest in web development, ope
 
 - learning
 
-## 📈 GitHub Stats
-
-![Surajsuthar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surajsuthar&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 
