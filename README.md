@@ -1,4 +1,4 @@
-# Hi there, I'm Surajsuthar! 👋
+# Hi there, I'm Suraj suthar! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Surajsuthar&color=brightgreen)
 
