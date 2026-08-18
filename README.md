@@ -4,6 +4,4 @@
 
 ## About Me
 
-I'm a passionate software developer with a keen interest in web development, open-source contributions, and distributed system. I love to build and work on projects that solve real-world problems.
-
-- learning
+I'm a passionate software developer with a keen interest in backend, open-source contributions, and Database systems.
