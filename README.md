@@ -1,5 +1,4 @@
 # Hi, I'm Suraj! 👋
-## About Me
 
 - backend, open-source contributions, and Database makes me wet.
 - I am looking for FTE for Software engineer role ( Hire me 🙌🏻)
