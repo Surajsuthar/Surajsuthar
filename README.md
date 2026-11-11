@@ -1,11 +1,8 @@
 # Hi, I'm Suraj! 👋
 ## About Me
 
-- I'm a passionate software developer with a keen interest in backend, open-source contributions, and Database makes me wet.
-- I have 1+ year of experience building backend and full-stack systems, mainly working with TypeScript, Node.js, databases, and Rust.
-- I’ve been spending a lot of time working on backend-heavy and systems projects, including storage engines, search systems, APIs, and infrastructure, and I’d love to explore if there’s a way I could contribute to the team
-
-
+- backend, open-source contributions, and Database makes me wet.
+- I am looking for FTE for Software engineer role ( Hire me 🙌🏻)
 Some of my Project im which im complete soon or after and i like to work on then.
 
 - [EvictBench](https://github.com/Surajsuthar/Evict-Bench) - C++ benchmark suite for database buffer-pool eviction policies: FIFO, Random, LRU, MRU, CLOCK, LFU, LFU-Aging, LRU-K, 2Q, PostgreSQL-style Clock Sweep, InnoDB midpoint LRU, ARC, LIRS, CLOCK-Pro, CAR and TinyLFU query-aware replacement.
