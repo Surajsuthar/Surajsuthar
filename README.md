@@ -3,8 +3,8 @@
 
 - backend, open-source contributions, and Database makes me wet.
 - I am looking for FTE for Software engineer role ( Hire me 🙌🏻)
-Some of my Project im which im complete soon or after and i like to work on then.
 
+## Projects
 - [EvictBench](https://github.com/Surajsuthar/Evict-Bench) - C++ benchmark suite for database buffer-pool eviction policies: FIFO, Random, LRU, MRU, CLOCK, LFU, LFU-Aging, LRU-K, 2Q, PostgreSQL-style Clock Sweep, InnoDB midpoint LRU, ARC, LIRS, CLOCK-Pro, CAR and TinyLFU query-aware replacement.
 - [refDb](https://github.com/Surajsuthar/refDB) - refDB is an educational database project focused on building a small but sophisticated storage engine around a classic Log-Structured Merge Tree (LSM) index.
 - [Kv0DB](https://github.com/Surajsuthar/kv0DB) - Built a disk-backed B tree key-value storage engine in Go supporting CRUD operations, record encoding, decoding, and key-based lookups with sql like query langusage.
